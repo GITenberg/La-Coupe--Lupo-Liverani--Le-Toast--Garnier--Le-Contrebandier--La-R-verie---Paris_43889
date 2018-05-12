@@ -1,0 +1,36 @@
+_repo: La-Coupe--Lupo-Liverani--Le-Toast--Garnier--Le-Contrebandier--La-R-verie---Paris_43889
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43889-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Armandine Aurore Lucille
+    - Dupin, Amandine-Aurore-Lucile
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Femmes
+gutenberg_issued: '2013-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43889'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+- !lcsh 'Short stories, French'
+title: La Coupe; Lupo Liverani; Le Toast; Garnier; Le Contrebandier; La Rêverie à
+  Paris
+url: http://www.gutenberg.org/ebooks/43889
